@@ -1,0 +1,33 @@
+<package>
+	<id>com.menardiosdesigns.addoxfoldericons</id>
+	<name>ADDO-X Folder Icons</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS></miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.menardiosdesigns.addox</package>
+	</dependencies>
+	<shortDescription>Folder icons for ADDO-X</shortDescription>
+	<descriptionlist>
+		<description>Folder icons for ADDO-X</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Folder icons for ADDO-X</description>
+			<image>Folders.jpg</image>
+		</screenshot>	
+	</screenshots>
+	<changelog>
+		<change>Initial release for iOS 12</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Follow me on Twitter</name>
+			<url>https://twitter.com/menard__00</url>
+			<iconclass>fa fa-twitter</iconclass>
+                </link>
+	</links>
+</package>

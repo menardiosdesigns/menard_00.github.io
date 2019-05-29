@@ -1,0 +1,29 @@
+<package>
+	<id>com.menardiosdesigns.addox</id>
+	<name>ADDO-X</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS></miniOS>
+			<otherVersions></otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>ADDO-X theme</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>ADDO1.png</image>
+		</screenshot>	
+		<screenshot>
+			<image>ADDO2.png</image>
+		</screenshot>	
+	</screenshots>
+	<changelog>
+		<change>Initial release for iOS 12</change>
+	</changelog>
+</package>
