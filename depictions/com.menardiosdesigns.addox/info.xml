@@ -4,11 +4,7 @@
 	<version>1.0.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS></miniOS>
-			<otherVersions></otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
+			<miniOS>10.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies></dependencies>
@@ -24,6 +20,7 @@
 		</screenshot>	
 	</screenshots>
 	<changelog>
+		<version>1.0.0</version>
 		<change>Initial release for iOS 12</change>
 	</changelog>
 </package>

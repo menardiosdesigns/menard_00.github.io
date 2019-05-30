@@ -8,9 +8,8 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>com.menardiosdesigns.addox</package>
+		<package></package>
 	</dependencies>
-	<shortDescription>Folder icons for ADDO-X</shortDescription>
 	<descriptionlist>
 		<description>Folder icons for ADDO-X</description>
 	</descriptionlist>
@@ -21,6 +20,7 @@
 		</screenshot>	
 	</screenshots>
 	<changelog>
+		<version>1.0.0</version>
 		<change>Initial release for iOS 12</change>
 	</changelog>
 </package>
