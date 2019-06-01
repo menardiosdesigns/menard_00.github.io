@@ -1,0 +1,31 @@
+Package: com.menardiosdesigns.addox
+Version: 1.0.0
+Section: Themes
+Maintainer: menard_00 <menardiosdesigns@yahoo.com>
+Depends:
+Architecture: iphoneos-arm
+Filename: ./debs/com.menardiosdesigns.addox_1.0.0_iphoneos-arm.deb
+Size: 30270752
+MD5Sum: 3e0a2bc928b50a8af5e73810081a3de1
+SHA1: f9a1da5e14b1f07129261501ce776046198952cd
+SHA256: 1ba129dcab4f0a2cdbaba13b65367ce63a80710b0c1ffb1c32f5334c869a83d9
+Description: ADDO-X main theme
+Name: ADDO-X
+Author: menard_00 <menardiosdesigns@yahoo.com>
+Depiction: https://menardiosdesigns.github.io/repo/depictions/?p=com.menardiosdesigns.addox
+
+Package: com.menardiosdesigns.addoxfoldericons
+Version: 1.0.0
+Section: Themes
+Maintainer: menard_00 <menardiosdesigns@yahoo.com>
+Depends:
+Architecture: iphoneos-arm
+Filename: ./debs/com.menardiosdesigns.addoxfoldericons_1.0.0_iphoneos-arm.deb
+Size: 3854166
+MD5Sum: 4296c9a3c32159507bcc4ab8e49f9ac3
+SHA1: 237663f8a8b0fb0147af2b14dedf0b240f419854
+SHA256: f7101b7f31188980abedabd6933649649ee3880e3481ce6a4e808a7d3a884654
+Description: Folder icons for ADDO-X
+Name: ADDO-X Folder Icons
+Author: menard_00 <menardiosdesigns@yahoo.com>
+Depiction: https://menardiosdesigns.github.io/repo/depictions/?p=com.menardiosdesigns.addoxfoldericons
