@@ -5,7 +5,7 @@ Maintainer: menard_00 <menardiosdesigns@yahoo.com>
 Depends:
 Architecture: iphoneos-arm
 Filename: ./debs/com.menardiosdesigns.addox_1.1.0_iphoneos-arm.deb
-Size: 30732040
+Size: 30732040 bytes
 MD5Sum: 4b89143b8575bb452bd12e959f507b35
 SHA1: 51D5789A19C29C32BD448D908EC23B25D1EE29E4
 SHA256: 95C350F6F7FE402811A3780A02903FD317D80AE3D227A3E7E96238B69F52E3C5
