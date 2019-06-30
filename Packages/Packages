@@ -1,14 +1,14 @@
 Package: com.menardiosdesigns.addox
-Version: 1.0.0
+Version: 1.1.0
 Section: Themes
 Maintainer: menard_00 <menardiosdesigns@yahoo.com>
 Depends:
 Architecture: iphoneos-arm
-Filename: ./debs/com.menardiosdesigns.addox_1.0.0_iphoneos-arm.deb
-Size: 30270752
-MD5Sum: 3e0a2bc928b50a8af5e73810081a3de1
-SHA1: f9a1da5e14b1f07129261501ce776046198952cd
-SHA256: 1ba129dcab4f0a2cdbaba13b65367ce63a80710b0c1ffb1c32f5334c869a83d9
+Filename: ./debs/com.menardiosdesigns.addox_1.1.0_iphoneos-arm.deb
+Size: 30732030
+MD5Sum: 44799fcd4326a1b7ec9851070ff4e0b6
+SHA1: E83290E09F075D89DA23C6F07DC8867094F079D8
+SHA256: D35C0DC01649F735140C8CE18832984EC90EA928333DCEA7D5FD5DE93F2D23DD
 Description: ADDO-X main theme
 Name: ADDO-X
 Author: menard_00 <menardiosdesigns@yahoo.com>
