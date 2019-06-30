@@ -1,0 +1,26 @@
+<package>
+	<id>com.menardiosdesigns.addoxfoldericons</id>
+	<name>ADDO-X Folder Icons</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS></miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package></package>
+	</dependencies>
+	<descriptionlist>
+		<description>Folder icons for ADDO-X. Send icon request to addo_theme@yahoo.com</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>Folders.jpg</image>
+		</screenshot>	
+	</screenshots>
+	<changelog>
+		<version>1.0.0</version>
+		<change>Initial release for iOS 12</change>
+	</changelog>
+</package>

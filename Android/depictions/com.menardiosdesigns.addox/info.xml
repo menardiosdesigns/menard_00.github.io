@@ -1,0 +1,26 @@
+<package>
+	<id>com.menardiosdesigns.addox</id>
+	<name>ADDO-X</name>
+	<version>1.1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>ADDO-X theme. Send icon request to addo_theme@yahoo.com</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>ADDO1.png</image>
+		</screenshot>	
+		<screenshot>
+			<image>ADDO2.png</image>
+		</screenshot>	
+	</screenshots>
+	<changelog>
+		<version>1.1.0</version>
+		<change>New icons added</change>
+	</changelog>
+</package>
